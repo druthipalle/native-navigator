@@ -17,6 +17,5 @@ What's next for Native Navigator:
 In the future we hope to add a video feed input. This way the product can be placed on the users windshield and can announce the street signs as they approach. We would also like to add brief descriptions on what the street signs mean to assist new drivers. For example, the AI would read aloud “stop sign” followed by “slow down and prepare to stop”. 
 
 Built with:
-
 Python, HTML, JavaScript, CSS
 
